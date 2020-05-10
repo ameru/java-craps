@@ -1,5 +1,6 @@
 # BUS 392: Java Final Project - Build a game!
 ### Modeled after craps: https://youtu.be/7daSiVupvmY
+#### Made by Matias Ilic (@matiilic5), Amy Ru (@ameru), and Alivia Sawyer (@sawyeralivia15)
 
 1. Ask how many players will be playing (max 4)
   * Create array size that is based on number of players
