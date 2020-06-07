@@ -16,10 +16,12 @@ There are always 1.40% odds against the current player rolling, making the Donâ€
 
 ### User interface mock-up:
 1. The printing of the game board.
-(https://github.com/ameru/java_craps/blob/master/readme_images/1.png)
+(readme_images/1.png)
 
 2. The console displays a welcome message asking the user if they would like to play the game Craps.
+<p>
 (https://github.com/ameru/java_craps/blob/master/readme_images/2.png)
+</p>
 
 3. The console asks the user how many players will be playing in the current game of Craps, there is a maximum of 6 players. Each player has a wallet that begins with $100.
 ![Image of GameUserInterface]
