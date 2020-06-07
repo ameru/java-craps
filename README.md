@@ -16,50 +16,38 @@ There are always 1.40% odds against the current player rolling, making the Don�
 
 ### User interface mock-up:
 1. The printing of the game board.
-(readme_images/1.png)
+<img src = https://github.com/ameru/java_craps/blob/master/readme_images/1.png>
 
 2. The console displays a welcome message asking the user if they would like to play the game Craps.
-<p>
-(https://github.com/ameru/java_craps/blob/master/readme_images/2.png)
-</p>
+<img src = https://github.com/ameru/java_craps/blob/master/readme_images/2.png>
 
 3. The console asks the user how many players will be playing in the current game of Craps, there is a maximum of 6 players. Each player has a wallet that begins with $100.
-![Image of GameUserInterface]
-(https://github.com/ameru/java_craps/blob/master/readme_images/3.png)
+<img src = https://github.com/ameru/java_craps/blob/master/readme_images/3.png>
 
 4. Regardless of the amount of players, each  player is asked how much money they would like to bet.
-![Image of game4]
-(https://github.com/ameru/java_craps/blob/master/readme_images/4.png)
+<img src = https://github.com/ameru/java_craps/blob/master/readme_images/4.png>
 
 5. Depending on the amount of players, the current player will be asked which player is rolling the dice.
-![Image of game5]
-(https://github.com/ameru/java_craps/blob/master/readme_images/5.png)
+<img src = https://github.com/ameru/java_craps/blob/master/readme_images/5.png>
 
 6. After the console asks which user is rolling the dice, they will be prompted to enter “enter” into the console for the dice to be rolled.
-![Image of game6]
-(https://github.com/ameru/java_craps/blob/master/readme_images/6.png)
+<img src = https://github.com/ameru/java_craps/blob/master/readme_images/6.png>
 
 7. There are 3 possible outcomes that can happen when the dice are rolled:
   * The current player rolls a 4, 5, 6, 8, 9, or a 10, and that number becomes their point value.
-  ![Image of game7]
-  (https://github.com/ameru/java_craps/blob/master/readme_images/7.png)
+<img src = https://github.com/ameru/java_craps/blob/master/readme_images/7.png>
+
+   * They will then be prompted if they would like to place another bet for the next round, then they can choose if they would like to bet for or against the point value.
+    <img src = https://github.com/ameru/java_craps/blob/master/readme_images/7i.png>
   
-    * They will then be prompted if they would like to place another bet for the next round, then they can choose if they would like to bet for or against the point value.
-     ![Image of game7i]
-     (https://github.com/ameru/java_craps/blob/master/readme_images/7i.png)
-     
-    * This shows if they won or lost depending on if they were for or against the point value.
-     ![Image of game7ii]
-     (https://github.com/ameru/java_craps/blob/master/readme_images/7ii.png)
-  
+   * This shows if they won or lost depending on if they were for or against the point value.
+    <img src = https://github.com/ameru/java_craps/blob/master/readme_images/7ii.png>
+
   * The current player rolls a 2, 3, or 12, causing them to automatically lose.
-   ![Image of game7b]
-   (https://github.com/ameru/java_craps/blob/master/readme_images/7b.png)
+   <img src = https://github.com/ameru/java_craps/blob/master/readme_images/7b.png>
   
   * The current player rolls a 7 or 11, meaning an instant win. After the b. and c. scenarios, the user’s running total of winnings is presented.
-   ![Image of game7c]
-   (https://github.com/ameru/java_craps/blob/master/readme_images/7c.png)
- 
+   <img src = https://github.com/ameru/java_craps/blob/master/readme_images/7c.png>
+
 8. After any of these 3 scenarios, the user is asked if they would like to play again, by responding with “yes” or “no” in the console.
- ![Image of game8]
- (https://github.com/ameru/java_craps/blob/master/readme_images/8.png)
+ <img src = https://github.com/ameru/java_craps/blob/master/readme_images/8.png>
