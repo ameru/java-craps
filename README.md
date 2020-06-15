@@ -1,5 +1,8 @@
 # Java_Craps
 
+#### Modeled after craps: https://youtu.be/7daSiVupvmY
+#### Made by Matias Ilic (@matiilic5), Amy Ru (@ameru), and Alivia Sawyer (@sawyeralivia15)
+
 ### Description:
 Craps is a gambling game that is played on a purpose-built table using two dice. The game consists of players placing bets on the outcome of the dice roll. The main goal of the game is to bet on a number which will be the come out or won't be the come out on the next roll of the dice.
  
